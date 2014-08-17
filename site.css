@@ -1,0 +1,23 @@
+* {
+	color: #999;
+	font-family: Calibri;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top:15%;
+	text-align: center;
+}
+
+h1 {	
+	font-size:3em;
+}
+
+a, p {
+	font-size:1.25em;
+}
